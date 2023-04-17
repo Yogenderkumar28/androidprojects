@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">birthdayCard</string>
+    <string name="image_description">Happy Birthday Card</string>
+    <string name="text_view">From Yogender Kumar</string>
+    <string name="text_view_2">Birthday Logo</string>
+    <string name="text_description_2">Happy Birthday Card</string>
+</resources>
